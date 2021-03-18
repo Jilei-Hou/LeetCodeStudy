@@ -7,9 +7,7 @@
 class Solution {
 
 public:
-
     ListNode* reverseList(ListNode* head) {  //定义一个返回值为ListNode型的函数，函数参数为ListNode型的指针
-    
         ListNode* NewHead = nullptr; //定义一个初始为空的指向ListNode型的指针，这个指针将作为新链表的头结点
         
         ListNode* node;  //中转结点
