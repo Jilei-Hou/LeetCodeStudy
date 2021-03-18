@@ -4,8 +4,7 @@
 
 # [解题思路](https://blog.csdn.net/qq_42351880/article/details/88637387)
 
-class Solution {
-
+class Solution {    
 public:
 
     ListNode* reverseList(ListNode* head) {  //定义一个返回值为ListNode型的函数，函数参数为ListNode型的指针
